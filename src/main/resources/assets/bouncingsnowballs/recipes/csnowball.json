@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "csnowball"
+  },
+  "pattern": [
+    "GsG",
+    "sGs",
+    "GsG"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "G": {
+      "item": "minecraft:gunpowder"
+    },
+    "s": {
+      "item": "minecraft:snowball"
+    }
+  }
+}

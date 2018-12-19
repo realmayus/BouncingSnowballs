@@ -1,0 +1,28 @@
+{
+  "result": {
+    "item": "launcher"
+  },
+  "pattern": [
+    "IIs",
+    " bs",
+    "  s"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "I": {
+      "item": "minecraft:iron_block"
+    },
+    "s": {
+      "item": "minecraft:stonebrick",
+      "data": 0
+    },
+    "b": [
+      {
+        "item": "minecraft:stone_button"
+      },
+      {
+        "item": "minecraft:wooden_button"
+      }
+    ]
+  }
+}

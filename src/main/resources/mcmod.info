@@ -1,0 +1,15 @@
+[
+{
+  "modid": "bouncingsnowballs",
+  "name": "Bouncing Snowballs",
+  "description": "Adds a snowball launcher with snowballs that bounce off blocks",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MayusYT"],
+  "credits": "MayusYT",
+  "logoFile": "",
+  "screenshots": []
+}
+]
